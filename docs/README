@@ -1,0 +1,26 @@
+# OctoAcme Project Management Docs
+
+This repository centralizes the project management processes used by OctoAcme. It provides a practical, shared model for how teams initiate, plan, execute, release, and improve work.
+
+## Project management process summary
+
+OctoAcme uses a lightweight lifecycle that moves from problem validation and initiation through planning, execution, release, and continuous improvement. The process emphasizes clear ownership, stakeholder alignment, measurable outcomes, risk management, and regular communication across delivery teams.
+
+## Documentation index
+
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Project Initiation](octoacme-project-initiation.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](octoacme-roles-and-personas.md)
+
+## What this helps teams do
+
+- Align on project goals and roles early
+- Plan work with clear scope, dependencies, and milestones
+- Track execution with regular communication and escalation paths
+- Release confidently with validation and rollback readiness
+- Learn continuously and improve process quality over time
